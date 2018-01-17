@@ -40,14 +40,17 @@ int main(){
 	cout << (menggelinding.jenisbola);
 	menggelinding.kencang("HIJAU STABILO ");
 	cout << "Merk Bola  : " <<menggelinding.merkBola<<endl;
+	cout << "Berat Bola : " <<menggelinding.beratBola<<" gram"<<endl;
 	
 	cout << (memantul.jenisbola);
 	memantul.kencang("COKLAT ");
 	cout << "Merk Bola  : " <<memantul.merkBola<<endl;
+	cout << "Berat Bola : " <<memantul.beratBola<<" gram"<<endl;
 	
 	cout << (lempar.jenisbola);
 	lempar.kencang("BIRU KUNING ");
 	cout << "Merk Bola  : " <<lempar.merkBola<<endl;
+	cout << "Berat Bola :" <<lempar.beratBola << " gram"<<endl;
 }
 
 void bola::kencang(string warna){

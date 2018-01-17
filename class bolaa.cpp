@@ -31,4 +31,7 @@ int main(){
 	memantul.merkBola = "MIKASA ";
 	lempar.merkBola = "MOLTEN ";
 	
+	//berat bola
+	menggelinding.beratBola = 260;
+	
 }

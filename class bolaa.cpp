@@ -56,6 +56,8 @@ int main(){
 	cout << " Untuk "<<lempar.jenisbola<<endl;
 	cout<<(lempar.merkBola);
 	lempar.kempis(11);
+	
+	cout << " Untuk "<<memantul.jenisbola<<endl;
 }
 
 void bola::kencang(string warna){

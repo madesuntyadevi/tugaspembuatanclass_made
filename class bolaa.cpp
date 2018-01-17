@@ -51,9 +51,15 @@ int main(){
 	lempar.kencang("BIRU KUNING ");
 	cout << "Merk Bola  : " <<lempar.merkBola<<endl;
 	cout << "Berat Bola :" <<lempar.beratBola << " gram"<<endl;
+	
+	//kempis ukuran
+	cout << " Untuk "<<lempar.jenisbola<<endl;
 }
 
 void bola::kencang(string warna){
 	cout << "Jika kencang maka warnanya "<<warna<< " !!"<<endl;
 
+}
+void bola::kempis(int diameter){
+	cout << "Jika kempis ukuran diameter <cm> adalah "<<diameter<< " !!"<<endl;
 }

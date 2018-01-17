@@ -10,6 +10,7 @@ class bola{
 		int diameterBola;
 		int hargaBola;
 		string jenisbola;
+		string merkBola;
 };
 
 int main(){

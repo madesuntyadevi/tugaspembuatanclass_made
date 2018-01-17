@@ -33,5 +33,6 @@ int main(){
 	
 	//berat bola
 	menggelinding.beratBola = 260;
+	memantul.beratBola = 600 ;
 	
 }

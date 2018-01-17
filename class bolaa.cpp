@@ -60,6 +60,8 @@ int main(){
 	cout << " Untuk "<<memantul.jenisbola<<endl;
 	cout<<(memantul.merkBola);
 	memantul.kempis(12);
+	
+	cout << " Untuk "<<menggelinding.jenisbola<<endl;
 }
 
 void bola::kencang(string warna){

@@ -7,6 +7,7 @@ class bola{
 		void kencang(string warna);	
 		void kempis(int diameter);
 		int beratBola;
+		int diameterBola;
 };
 
 int main(){

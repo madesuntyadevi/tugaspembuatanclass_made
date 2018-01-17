@@ -26,4 +26,7 @@ int main(){
 	memantul.hargaBola = 180.000 ;
 	lempar.hargaBola = 450.000 ;
 	
+	//merk bola
+	menggelinding.merkBola = "PROTEAM ";
+	
 }

@@ -23,5 +23,6 @@ int main(){
 	
 	//harga bola
 	menggelinding.hargaBola = 15.000 ;
+	memantul.hargaBola = 180.000 ;
 	
 }

@@ -14,5 +14,6 @@ class bola{
 };
 
 int main(){
+	bola menggelinding,memantul,lempar;
 	
 }

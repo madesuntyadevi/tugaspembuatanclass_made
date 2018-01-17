@@ -28,5 +28,6 @@ int main(){
 	
 	//merk bola
 	menggelinding.merkBola = "PROTEAM ";
+	memantul.merkBola = "MIKASA ";
 	
 }

@@ -36,4 +36,18 @@ int main(){
 	memantul.beratBola = 600 ;
 	lempar.beratBola = 70 ;
 	
+	//kencang warna
+	cout << (menggelinding.jenisbola);
+	menggelinding.kencang("HIJAU STABILO ");
+	
+	cout << (memantul.jenisbola);
+	memantul.kencang("COKLAT ");
+	
+	cout << (lempar.jenisbola);
+	lempar.kencang("BIRU KUNING ");
+}
+
+void bola::kencang(string warna){
+	cout << "Jika kencang maka warnanya "<<warna<< " !!"<<endl;
+
 }

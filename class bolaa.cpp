@@ -21,4 +21,7 @@ int main(){
 	memantul.jenisbola = "BOLA SEDANG ";
 	lempar.jenisbola = "BOLA BESAR ";
 	
+	//harga bola
+	menggelinding.hargaBola = 15.000 ;
+	
 }

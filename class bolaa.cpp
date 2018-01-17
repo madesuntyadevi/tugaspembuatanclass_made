@@ -8,6 +8,7 @@ class bola{
 		void kempis(int diameter);
 		int beratBola;
 		int diameterBola;
+		int hargaBola;
 };
 
 int main(){

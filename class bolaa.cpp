@@ -36,6 +36,11 @@ int main(){
 	memantul.beratBola = 600 ;
 	lempar.beratBola = 70 ;
 	
+	//diameter bola
+	menggelinding.diameterBola = 11 ;
+	memantul.diameterBola = 12 ;
+	lempar.diameterBola = 13 ;
+	
 	//kencang warna
 	cout << (menggelinding.jenisbola);
 	menggelinding.kencang("HIJAU STABILO ");

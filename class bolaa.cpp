@@ -46,16 +46,19 @@ int main(){
 	menggelinding.kencang("HIJAU STABILO ");
 	cout << "Merk Bola  : " <<menggelinding.merkBola<<endl;
 	cout << "Berat Bola : " <<menggelinding.beratBola<<" gram"<<endl;
+	cout << "Diameter Bola : " <<menggelinding.diameterBola<<" cm"<<endl;
 	
 	cout << (memantul.jenisbola);
 	memantul.kencang("COKLAT ");
 	cout << "Merk Bola  : " <<memantul.merkBola<<endl;
 	cout << "Berat Bola : " <<memantul.beratBola<<" gram"<<endl;
+	cout << "Diameter Bola : " <<memantul.diameterBola<<" cm"<<endl;
 	
 	cout << (lempar.jenisbola);
 	lempar.kencang("BIRU KUNING ");
 	cout << "Merk Bola  : " <<lempar.merkBola<<endl;
 	cout << "Berat Bola :" <<lempar.beratBola << " gram"<<endl;
+	cout << "Diameter Bola : " <<lempar.diameterBola<<" cm"<<endl;
 	
 	//kempis ukuran
 	cout << " Untuk "<<lempar.jenisbola<<endl;

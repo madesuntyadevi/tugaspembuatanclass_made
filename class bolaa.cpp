@@ -43,6 +43,7 @@ int main(){
 	
 	cout << (memantul.jenisbola);
 	memantul.kencang("COKLAT ");
+	cout << "Merk Bola  : " <<memantul.merkBola<<endl;
 	
 	cout << (lempar.jenisbola);
 	lempar.kencang("BIRU KUNING ");

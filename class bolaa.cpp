@@ -39,6 +39,7 @@ int main(){
 	//kencang warna
 	cout << (menggelinding.jenisbola);
 	menggelinding.kencang("HIJAU STABILO ");
+	cout << "Merk Bola  : " <<menggelinding.merkBola<<endl;
 	
 	cout << (memantul.jenisbola);
 	memantul.kencang("COKLAT ");

@@ -47,6 +47,7 @@ int main(){
 	
 	cout << (lempar.jenisbola);
 	lempar.kencang("BIRU KUNING ");
+	cout << "Merk Bola  : " <<lempar.merkBola<<endl;
 }
 
 void bola::kencang(string warna){

@@ -54,6 +54,8 @@ int main(){
 	
 	//kempis ukuran
 	cout << " Untuk "<<lempar.jenisbola<<endl;
+	cout<<(lempar.merkBola);
+	lempar.kempis(11);
 }
 
 void bola::kencang(string warna){

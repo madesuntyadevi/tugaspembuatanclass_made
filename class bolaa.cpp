@@ -75,9 +75,9 @@ int main(){
 }
 
 void bola::kencang(string warna){
-	cout << "Jika kencang maka warnanya "<<warna<< " !!"<<endl;
+	cout << "Jika kencang maka warnanya "<<warna<<endl;
 
 }
 void bola::kempis(int diameter){
-	cout << "Jika kempis ukuran diameter <cm> adalah "<<diameter<< " !!"<<endl;
+	cout << "Jika kempis ukuran diameter <cm> adalah "<<diameter<<endl;
 }

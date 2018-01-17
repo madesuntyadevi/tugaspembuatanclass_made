@@ -19,5 +19,6 @@ int main(){
 	//jenis bola
 	menggelinding.jenisbola = "BOLA KECIL ";
 	memantul.jenisbola = "BOLA SEDANG ";
+	lempar.jenisbola = "BOLA BESAR ";
 	
 }
